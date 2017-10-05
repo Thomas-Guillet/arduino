@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Thomas-Guillet/arduino-m1/issues"
   },
-  "homepage": "https://github.com/Thomas-Guillet/arduino-m1#readme"
+  "homepage": "https://github.com/Thomas-Guillet/arduino-m1#readme",
+  "dependencies": {
+    "serialport": "^5.0.0"
+  }
 }
